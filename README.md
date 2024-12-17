@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    🔗 <img src="https://raw.githubusercontent.com/Gelzieny/python_course/40a39ff8fba4589f53daba2f8076b5e03de78e5f/.github/logo_py.svg"  alt="Logo do python" width="300px" />
+    🔗 <img src="https://raw.githubusercontent.com/Gelzieny/introducao-python/45ec54f01c34506be2dc0983eedeab64c0743e01/.github/logo_py.svg"  alt="Logo do python" width="300px" />
   </a>
 </p>
  
